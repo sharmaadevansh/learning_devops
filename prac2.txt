@@ -1,0 +1,2 @@
+this is second practical day of the devops class
+doing some chages in the file to check blob creation.
