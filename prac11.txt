@@ -1,2 +1,4 @@
 this is second class of the subject devops and the teacher is asking to file
 i am updating the file for lear ning the initial commit
+updadting for prac 3
+
